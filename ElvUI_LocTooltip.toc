@@ -1,0 +1,10 @@
+## Interface: 40100
+## Author: Lockslap
+## Title: |cff1784d1ElvUI Location Tooltip|r
+## Version: 1.0
+## Notes: Adds a tooltip with zone information to the ElvuiLoc frame.
+## RequiredDeps: ElvUI
+## OptionalDeps: LibStub, LibBabble-Zone-3.0, LibQTip-1.0, LibTourist-3.0
+
+embeds.xml
+ElvUI_LocTooltip.lua

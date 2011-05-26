@@ -1,0 +1,39 @@
+------------------------------------------------------------------------
+r120 | odica | 2011-04-27 22:00:09 +0000 (Wed, 27 Apr 2011) | 1 line
+Changed paths:
+   A /tags/LibTourist-3.0 WoW-4.1-release1 (from /trunk:119)
+
+Tagging as LibTourist-3.0 WoW-4.1-release1
+------------------------------------------------------------------------
+r119 | Odica | 2011-04-27 21:57:04 +0000 (Wed, 27 Apr 2011) | 4 lines
+Changed paths:
+   M /trunk/LibTourist-3.0.lua
+   M /trunk/LibTourist-3.0.toc
+
+- Added Zul'Gurub
+- Updated Zul'Aman
+- Changed Azshara faction from Contested into Horde
+- Toc: Changed interface version into 40100
+------------------------------------------------------------------------
+r118 | Odica | 2011-04-23 12:16:37 +0000 (Sat, 23 Apr 2011) | 4 lines
+Changed paths:
+   M /trunk/.pkgmeta
+   M /trunk/LibTourist-3.0.lua
+
+- Added Stormwind/Orgrimmar - Tol Barad Peninsula v.v. portals
+- Applied a fix to get proper distance values within Stranglethorn and Vahsj'ir subzones
+- Corrected Eastern Kingdoms yards value (though reported as a change in r105, this value was never actually changed)
+- Included LibStub into the package again
+------------------------------------------------------------------------
+r117 | Odica | 2011-03-11 15:27:29 +0000 (Fri, 11 Mar 2011) | 7 lines
+Changed paths:
+   M /trunk/LibTourist-3.0.lua
+
+Portal connections added:
+- Hellfire Peninsula to Orgrimmar
+- Hellfire Peninsula to Stormwind City
+- Deepholm to Orgrimmar
+- Deepholm to Stormwind City
+- The Exodar to Darnassus
+- Darnassus to The Exodar
+------------------------------------------------------------------------
